@@ -12,7 +12,7 @@ A simple browser-based Rock Paper Scissors game built with HTML, CSS, and JavaSc
   - 'P' = Paper  
   - 'S' = Scissors  
   - 'A' = Toggle Auto-play  
-  - 'Backspace' = Reset score  
+  - 'Backspace' = Reset score
 
 ## How to Play
 1. Open `index.html` in your browser.
